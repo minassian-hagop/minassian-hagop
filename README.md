@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🧑‍💻 A few true things about me
+### 🧑‍💻 Few things about me
 
 - 🌱 Currently learning game development — mostly by building small things and breaking them
 - 💬 Happy to talk about agentic frontend development, API design, or developer tooling
