@@ -18,19 +18,18 @@ Here are some ideas to get you started:
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Professional+bug+creator+%F0%9F%90%9B;It+works+on+my+machine+%C2%AF%5C_(%E3%83%84)_%2F%C2%AF;Ctrl%2BC%2C+Ctrl%2BV%2C+Ctrl%2BShip;Turning+coffee+into+questionable+code" alt="Typing SVG" />
-  </a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full-stack+developer;React+%7C+Node.js+%7C+TypeScript;.NET+%7C+C%23;Laravel+%7C+PHP" alt="Typing SVG" />
+</a>
 </p>
 
 ---
 
 ### 🧑‍💻 A few true things about me
 
-- 🌱 Currently learning **"shiny new thing I'll abandon in 2 weeks"**
-- 🤝 I'm looking to collaborate on **anything that doesn't require meetings**
-- 💬 Ask me about **why my last commit message just says "fix"**
-- 🧠 I speak fluent Stack Overflow and broken JavaScript
+- 🌱 Currently learning game development — mostly by building small things and breaking them
+- 💬 Happy to talk about agentic frontend development, API design, or developer tooling
+- 🧰 Mostly working in typescript, react, node, .NET and Laravel
 
 > "I don't always test my code — but when I do, I do it in production." 🫠 Relax, that was a joke.
 
