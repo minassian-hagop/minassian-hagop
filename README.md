@@ -13,23 +13,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">
-  Hi, I'm Hagop 👋
-</h1>
+<h1 align="center">Hi, I'm Hagop 👋</h1>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full-stack+developer;React+%7C+Node.js+%7C+TypeScript;.NET+%7C+C%23;Laravel+%7C+PHP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=7AA2F7&center=true&vCenter=true&width=500&lines=Senior+software+engineer;React+%7C+TypeScript+%7C+C%23%2F.NET;AI+agents+and+LLM+features;Open+to+freelance+and+remote+roles" alt="Senior software engineer: React, TypeScript, C#/.NET" />
 </a>
+</p>
+
+<p align="center">
+Senior software engineer in Yerevan, Armenia (GMT+4), working remotely.<br/>
+Open to freelance and contract projects, and to full-time remote roles.
+</p>
+
+<p align="center">
+<a href="https://www.hagop-minassian.dev/hire/"><b>Work with me</b></a> ·
+<a href="https://www.hagop-minassian.dev/posts/">Blog</a> ·
+<a href="https://www.linkedin.com/in/hagop-minassian/">LinkedIn</a>
 </p>
 
 ---
 
 ### 🧑‍💻 Few things about me
 
-- 🌱 Currently learning game development — mostly by building small things and breaking them
+- 💼 Senior software engineer at marktguru since 2021: Preact and TypeScript frontends, C#/.NET services, microfrontends and the GitHub Actions CI/CD behind them
+- 🤖 Building AI agents and LLM features into existing products, with evals so the output can be trusted
+- 🌱 Currently learning game development, mostly by building small things and breaking them
 - 💬 Happy to talk about agentic frontend development, API design, or developer tooling
-- 🧰 Mostly working in typescript, react, node, .NET and Laravel
+- ✍️ I write about all of this at [hagop-minassian.dev](https://www.hagop-minassian.dev/posts/)
 
 > "I don't always test my code — but when I do, I do it in production." 🫠 Relax, that was a joke.
 
