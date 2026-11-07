@@ -36,7 +36,7 @@ Open to freelance and contract projects, and to full-time remote roles.
 
 ### 🧑‍💻 Few things about me
 
-- 💼 Senior software engineer at marktguru since 2021: Preact and TypeScript frontends, C#/.NET services, microfrontends and the GitHub Actions CI/CD behind them
+- 💼 Senior software engineer with 7+ years in production: Preact and TypeScript frontends, C#/.NET services, microfrontends and the GitHub Actions CI/CD behind them
 - 🤖 Building AI agents and LLM features into existing products, with evals so the output can be trusted
 - 🌱 Currently learning game development, mostly by building small things and breaking them
 - 💬 Happy to talk about agentic frontend development, API design, or developer tooling
